@@ -9091,11 +9091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.API\\MPCA.API.csproj",
+      "projectUniqueName": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.API\\MPCA.API.csproj",
       "projectName": "MPCA.API",
-      "projectPath": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.API\\MPCA.API.csproj",
+      "projectPath": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.API\\MPCA.API.csproj",
       "packagesPath": "C:\\Users\\gaurav.kashikar\\.nuget\\packages\\",
-      "outputPath": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.API\\obj\\",
+      "outputPath": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaurav.kashikar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9111,11 +9111,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.LoggerService\\MPCA.LoggerService.csproj": {
-              "projectPath": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.LoggerService\\MPCA.LoggerService.csproj"
+            "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.LoggerService\\MPCA.LoggerService.csproj": {
+              "projectPath": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.LoggerService\\MPCA.LoggerService.csproj"
             },
-            "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.Repositories\\MPCA.Repositories.csproj": {
-              "projectPath": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.Repositories\\MPCA.Repositories.csproj"
+            "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.Repositories\\MPCA.Repositories.csproj": {
+              "projectPath": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.Repositories\\MPCA.Repositories.csproj"
             }
           }
         }

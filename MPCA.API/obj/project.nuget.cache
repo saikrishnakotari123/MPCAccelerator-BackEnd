@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2bNJGnTRIJmdN4Ewrkc2H0TQd8KInFxgRgCgVNgejWB9iewuOoLZTsQv199+LSQ49sJMiWGlaAYg0b3kEbRZhg==",
+  "dgSpecHash": "vb0iCzcsXNCqIQ1GyDMJEJLQB2hgyJIiXmCdaPLEgiKZd3kkIfew1oB2LpZ001CsHT6YLqDR7Z3w0M+y7iDw/A==",
   "success": true,
-  "projectFilePath": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.API\\MPCA.API.csproj",
+  "projectFilePath": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.API\\MPCA.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gaurav.kashikar\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\gaurav.kashikar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

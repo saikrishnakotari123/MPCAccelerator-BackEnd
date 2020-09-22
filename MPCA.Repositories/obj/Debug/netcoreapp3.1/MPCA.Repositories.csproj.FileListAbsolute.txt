@@ -1,0 +1,4 @@
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Repositories\obj\Debug\netcoreapp3.1\MPCA.Repositories.csprojAssemblyReference.cache
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Repositories\obj\Debug\netcoreapp3.1\MPCA.Repositories.AssemblyInfoInputs.cache
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Repositories\obj\Debug\netcoreapp3.1\MPCA.Repositories.AssemblyInfo.cs
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Repositories\obj\Debug\netcoreapp3.1\MPCA.Repositories.csproj.CoreCompileInputs.cache

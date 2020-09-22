@@ -16,3 +16,12 @@ D:\MPCAccelerator.WebAPI\MPCAccelerator.WebAPI\MPCA.Entities\obj\Debug\netcoreap
 D:\MPCAccelerator.WebAPI\MPCAccelerator.WebAPI\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.csproj.CoreCompileInputs.cache
 D:\MPCAccelerator.WebAPI\MPCAccelerator.WebAPI\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.dll
 D:\MPCAccelerator.WebAPI\MPCAccelerator.WebAPI\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.pdb
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\bin\Debug\netcoreapp3.1\MPCA.Entities.deps.json
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\bin\Debug\netcoreapp3.1\MPCA.Entities.dll
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\bin\Debug\netcoreapp3.1\MPCA.Entities.pdb
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.csprojAssemblyReference.cache
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.AssemblyInfoInputs.cache
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.AssemblyInfo.cs
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.dll
+C:\Users\gaurav.kashikar\Source\Repos\MPCAccelerator-BackEnd\MPCA.Entities\obj\Debug\netcoreapp3.1\MPCA.Entities.pdb

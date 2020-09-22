@@ -39,12 +39,13 @@ namespace MPCA.Entities.Models
         /// <value>The created by.</value>
        
    
-        public Guid CreatedBy { get; set; }
+        public string CreatedBy { get; set; }
 
         /// <summary>Gets or sets the created date.</summary>
         /// <value>The created date.</value>
 
         public DateTime CreatedDate { get; set; } = DateTime.Now;
+
 
     }
 }

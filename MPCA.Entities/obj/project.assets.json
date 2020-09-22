@@ -642,11 +642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.Entities\\MPCA.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.Entities\\MPCA.Entities.csproj",
       "projectName": "MPCA.Entities",
-      "projectPath": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.Entities\\MPCA.Entities.csproj",
+      "projectPath": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.Entities\\MPCA.Entities.csproj",
       "packagesPath": "C:\\Users\\gaurav.kashikar\\.nuget\\packages\\",
-      "outputPath": "D:\\MPCAccelerator.WebAPI\\MPCAccelerator.WebAPI\\MPCA.Entities\\obj\\",
+      "outputPath": "C:\\Users\\gaurav.kashikar\\Source\\Repos\\MPCAccelerator-BackEnd\\MPCA.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaurav.kashikar\\AppData\\Roaming\\NuGet\\NuGet.Config",

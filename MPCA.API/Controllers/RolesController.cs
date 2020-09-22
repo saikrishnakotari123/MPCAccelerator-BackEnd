@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +12,7 @@ using MPCA.Entities.Models;
 
 namespace MPCA.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class RolesController : ControllerBase
@@ -80,6 +83,8 @@ namespace MPCA.API.Controllers
         [HttpPost]
         public async Task<ActionResult<Role>> PostRole(Role role)
         {
+
+            role.CreatedBy = SetUserIDFromToken();
             _context.Roles.Add(role);
             await _context.SaveChangesAsync();
 
@@ -105,6 +110,19 @@ namespace MPCA.API.Controllers
         private bool RoleExists(Guid id)
         {
             return _context.Roles.Any(e => e.ID == id);
+        }
+
+        private string SetUserIDFromToken()
+        {
+            string Userid = string.Empty;
+            var identity = HttpContext.User.Identity as ClaimsIdentity;
+            if (identity != null)
+            {
+                IEnumerable<Claim> claims = identity.Claims;
+                Userid = claims.FirstOrDefault(x => x.Type == "Id").Value;
+
+            }
+            return Userid;
         }
     }
 }
